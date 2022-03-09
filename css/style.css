@@ -1,0 +1,32 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+.bg {
+    background-color: cyan;
+}
+.head-container {
+    margin-top: 5%;
+    padding: 5%;
+}
+
+.search {
+    margin-top: 1%;
+    
+}
+
+.list-item{
+    margin-top: 3%;
+    text-decoration: none;
+    background: pink;
+    padding: 20px 30px;
+    color: black;
+    
+}
+
+
+.footer {
+    margin-top: 2%;
+}
